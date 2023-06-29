@@ -1,9 +1,9 @@
-af443b54f96dbbb9228efdcde3cd70a3 *DESCRIPTION
+1231a84aa425ce9329d3a3bb3a105b17 *DESCRIPTION
 81cf9237626a5045f94955c79b6f1212 *LICENSE
 34f4ed19d0c35fccdc9cf53e4779cc65 *NAMESPACE
-fcf6253e7f0e311ebd2bad40b019bfa1 *R/readysignal.R
+f30e34136938e6c078a0d43cf1494076 *R/readysignal.R
 49dd825415abac0cc085e48d8c20ae9d *README.md
-d2d0da8dbedc152fda949bc554969c33 *man/auto_discover.Rd
+50936374c4cecbe8fdadc60ecce63a42 *man/auto_discover.Rd
 9769e47b48e023b8707d7e57e8303d2e *man/delete_signal.Rd
 d49cebbfca13441f4c0da7f555f44617 *man/get_signal.Rd
 ee6f16cc7dc4f680e7c5b52ee72f7e5a *man/get_signal_details.Rd
@@ -16,4 +16,4 @@ e29844dc8010bf9207d740db806a7a9b *tests/testthat/data/day.csv
 ff95b29a9cdbb6acdfe7d622d8d3bacd *tests/testthat/helper.R
 d7e45d502d00385067ca8513b66c5c20 *tests/testthat/test-1-authentication.R
 40df5b8eda0d5c36ff356202209d875e *tests/testthat/test-2-signals.R
-0d07abfa8cddf3f63fdb8a0aa229b700 *tests/testthat/test-3-auto-discovery.R
+9de7c8ed10785d49bf47765ee026e0e8 *tests/testthat/test-3-auto-discovery.R
